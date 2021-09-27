@@ -31,7 +31,7 @@ body {
     height: 100%;
     display: flex;
     justify-content: ;
-    align-items: end;
+    align-items: center;
 }
 #unity-loading-bar {
     flex: 1 1 auto;
@@ -44,7 +44,7 @@ body {
     text-align: center;
 }
 #unity-logo img {
-    max-width: 40%;
+    max-width: 60%;
 }
 #unity-progress-bar-empty {
     width: 80%;
